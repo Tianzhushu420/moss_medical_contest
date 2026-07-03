@@ -29,29 +29,29 @@ ROS2 医疗自主机器人竞赛项目
  
 1. 进入工作空间
  
-bash
-```  
+```bash
+  
 cd ros2_ws
 ```
  
 2. 编译全部功能包
  
-bash
-```  
+```bash
+  
 colcon build
  
 ``` 
 3. 刷新环境变量
 
-bash
-```  
+```bash
+  
 source install/setup.bash
 ```
  
 4. 启动底盘+导航任务
 
-bash
-```  
+```bash
+  
 ros2 launch racecar nav10_map.launch.py
  
 ``` 
