@@ -30,29 +30,29 @@ The underlying basic driver package of the robot, including chassis motor contro
  
 1. Enter the workspace
  
-bash
-```  
+```bash
+  
 cd ros2_ws
  
 ``` 
 2. Compile all functional packages
  
-bash
-```  
+```bash
+  
 colcon build
  
 ``` 
 3. Refresh environment variables
  
-bash
-```  
+```bash
+  
 source install/setup.bash
  
 ``` 
 4. Launch chassis and navigation tasks
  
-bash
-```  
+```bash
+  
 ros2 launch racecar nav10_map.launch.py
  
 ```
