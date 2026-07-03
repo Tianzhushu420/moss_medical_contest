@@ -1,4 +1,8 @@
 ROS2 Medical Autonomous Robot Competition Project
+Basic information about the participating teams.
+Team Name: Brake Failure-Free Team
+School Name: Hu bei University of Science and Technology
+Captain’s Name: Deng Yi-ming
  
 1. Project Overview
  
